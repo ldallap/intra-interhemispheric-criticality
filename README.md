@@ -40,7 +40,7 @@ Spikes["Left_H"]["neuronid"]
 
 ### Computational model
 
-The `model/` folder contains the code used for the two-population active-rotator model.
+The `ComputationalModel/` folder contains the code used for the two-population active-rotator model.
 
 Main files:
 
