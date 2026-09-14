@@ -12,7 +12,7 @@ This repository contains code for both the empirical data analysis and the compu
 
 ### Empirical analysis
 
-The `empirical_analysis/` folder contains:
+The `Empirical_analysis/` folder contains:
 
 - `Empirical_DataAnalysis.ipynb` — analysis of the electrophysiological recordings.
 - `Utils.py` — helper functions used by the notebook.
